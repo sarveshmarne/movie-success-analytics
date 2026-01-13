@@ -1,7 +1,7 @@
 # Movie Success Analytics
 
 ## What Makes a Movie a Hit?
-### A data-driven analysis of movie success using the TMDB dataset
+### A data-driven analysis of movie success using the Kaggle dataset.
 
 ---
 
