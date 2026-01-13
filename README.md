@@ -28,32 +28,6 @@ This project demonstrates a complete **Data Analyst workflow**, from raw data in
 
 ---
 
-## Project Architecture
-
-movie-success-analytics/
-│
-├── data/
-│ ├── raw/
-│ ├── merged/
-│ ├── cleaned/
-│ └── processed/
-│
-├── notebooks/
-│ ├── 01_data_loading.ipynb
-│ ├── 02_data_cleaning.ipynb
-│ ├── 03_feature_engineering.ipynb
-│
-├── sql/
-│ ├── create_tables.sql
-│ ├── load_data.sql
-│ └── analysis_queries.sql
-│
-├── README.md
-└── requirements.txt
-
-
----
-
 ## Methodology
 
 ### 1 Data Loading & Integration
